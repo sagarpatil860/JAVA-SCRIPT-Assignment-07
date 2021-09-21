@@ -1,0 +1,9 @@
+body{
+    background-image:url("BGRI.png");
+}
+p{
+    text-align: center;
+    font-family:cursive;
+    color:rgb(27, 14, 84);
+    background-color: rgba(12, 9, 11, 0.515);
+}
